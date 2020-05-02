@@ -1,0 +1,10 @@
+Z:\projectvs\Denis Rodionov vs Anton Borisov\Denis Rodionov vs Anton Borisov\bin\Debug\Denis Rodionov vs Anton Borisov.exe.config
+Z:\projectvs\Denis Rodionov vs Anton Borisov\Denis Rodionov vs Anton Borisov\bin\Debug\Denis Rodionov vs Anton Borisov.exe
+Z:\projectvs\Denis Rodionov vs Anton Borisov\Denis Rodionov vs Anton Borisov\bin\Debug\Denis Rodionov vs Anton Borisov.pdb
+Z:\projectvs\Denis Rodionov vs Anton Borisov\Denis Rodionov vs Anton Borisov\obj\Debug\Denis Rodionov vs Anton Borisov.csprojAssemblyReference.cache
+Z:\projectvs\Denis Rodionov vs Anton Borisov\Denis Rodionov vs Anton Borisov\obj\Debug\Denis_Rodionov_vs_Anton_Borisov.Form1.resources
+Z:\projectvs\Denis Rodionov vs Anton Borisov\Denis Rodionov vs Anton Borisov\obj\Debug\Denis_Rodionov_vs_Anton_Borisov.Properties.Resources.resources
+Z:\projectvs\Denis Rodionov vs Anton Borisov\Denis Rodionov vs Anton Borisov\obj\Debug\Denis Rodionov vs Anton Borisov.csproj.GenerateResource.cache
+Z:\projectvs\Denis Rodionov vs Anton Borisov\Denis Rodionov vs Anton Borisov\obj\Debug\Denis Rodionov vs Anton Borisov.exe
+Z:\projectvs\Denis Rodionov vs Anton Borisov\Denis Rodionov vs Anton Borisov\obj\Debug\Denis Rodionov vs Anton Borisov.pdb
+Z:\projectvs\Denis Rodionov vs Anton Borisov\Denis Rodionov vs Anton Borisov\obj\Debug\Denis_Rodionov_vs_Anton_Borisov.Form2.resources
